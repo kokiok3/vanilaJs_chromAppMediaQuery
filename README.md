@@ -10,7 +10,7 @@
 <p> 👉HTML, CSS, JavaScript </p>
 <br>
 <h3> 웹사이트 구경 </h3>
-<a href= "https://kokiok3.github.io/vanilaJs-chromAppMediaQuery/" target= "_blank">vanilaJs-chromAppMediaQuery </a>
+<a href= "https://kokiok3.github.io/vanilaJs_chromAppMediaQuery/" target= "_blank">vanilaJs-chromAppMediaQuery </a>
 <br>
 <h3> 추가한 기능 </h3>
 <ul>
